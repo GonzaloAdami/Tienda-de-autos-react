@@ -8,6 +8,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <head>
+      <title>Wiki car</title>
+      <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    </head>
     <App />
   </React.StrictMode>
 );
