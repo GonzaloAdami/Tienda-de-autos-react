@@ -1,0 +1,31 @@
+.btn-size{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    border-radius: 15px ;
+    height: 1.5em;
+    width: 6em;
+    border-radius: 50px !important;
+    padding: 0px  0px!important;
+    border: none;
+    font-weight: 600;
+}
+
+.navbar-form{
+    align-items: center !important;
+}
+
+.nav-form-control{
+    background-color: rgb(234, 246, 255);
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    padding: 0px 1em;
+    color: black;
+}
+
+.logo{
+    width: 60px;
+    height: 100%;
+}

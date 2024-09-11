@@ -1,0 +1,27 @@
+.img-size{
+    width: 100% !important;
+    background-size: cover !important;
+    border-radius: 15px !important;
+    transition: 0.5s ease-in-out;
+    min-height: 15em !important;
+    max-height: 15em !important;
+    
+}
+.card{
+    transition: 0.5s ease-in-out;
+    min-height: 26em;
+
+}
+.card:hover{ 
+    transform: scale(1.1);
+}
+
+.card-text-mw{
+    max-height: 100px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.border{
+    border: 5px solid #4891fc;
+}
