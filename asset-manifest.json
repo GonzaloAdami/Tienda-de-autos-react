@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tienda-de-autos-react/static/css/main.eb4dc89b.css",
-    "main.js": "/Tienda-de-autos-react/static/js/main.0608e0ea.js",
+    "main.css": "/Tienda-de-autos-react/static/css/main.c4cc4a43.css",
+    "main.js": "/Tienda-de-autos-react/static/js/main.9b34d9c9.js",
     "static/js/453.62193ede.chunk.js": "/Tienda-de-autos-react/static/js/453.62193ede.chunk.js",
     "static/media/logo.png": "/Tienda-de-autos-react/static/media/logo.22d168fbe9f2f75d42fa.png",
     "index.html": "/Tienda-de-autos-react/index.html",
-    "main.eb4dc89b.css.map": "/Tienda-de-autos-react/static/css/main.eb4dc89b.css.map",
-    "main.0608e0ea.js.map": "/Tienda-de-autos-react/static/js/main.0608e0ea.js.map",
+    "main.c4cc4a43.css.map": "/Tienda-de-autos-react/static/css/main.c4cc4a43.css.map",
+    "main.9b34d9c9.js.map": "/Tienda-de-autos-react/static/js/main.9b34d9c9.js.map",
     "453.62193ede.chunk.js.map": "/Tienda-de-autos-react/static/js/453.62193ede.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb4dc89b.css",
-    "static/js/main.0608e0ea.js"
+    "static/css/main.c4cc4a43.css",
+    "static/js/main.9b34d9c9.js"
   ]
 }
