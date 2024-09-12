@@ -17,7 +17,7 @@ function Nav({ onSearch }) {
                 <img src={logo} className='logo' alt="Logo" />
                 <form className="d-flex navbar-form" role="search">
                     <input
-                        className="nav-form-control me-2 border"
+                        className="nav-form-control me-2"
                         type="search"
                         placeholder="Search"
                         aria-label="Search"

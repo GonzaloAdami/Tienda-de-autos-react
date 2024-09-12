@@ -14,7 +14,8 @@ function Card({ title, description, img, datos }) {  // Recibe los props title y
             <img
                 src={img}
                 className="card-img-top img-size"
-                alt="..."
+                alt={title}
+                loading="lazy"
             />
             <div className="card-body">
                 <h5 className="card-title">{title}</h5>  {/* Usa el prop title */}

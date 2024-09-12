@@ -22,6 +22,20 @@
     overflow-x: hidden;
 }
 
-.border{
-    border: 5px solid #4891fc;
+
+
+@media(max-width: 900px){
+    .card{
+        width: 95vw !important;
+        margin: auto;
+    }
+    .img-size{
+        width: 100% !important;
+        background-size: cover !important;
+        border-radius: 15px !important;
+        transition: 0.5s ease-in-out;
+        min-height: 13em !important;
+        max-height: 13em !important;
+        
+    }
 }

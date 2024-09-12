@@ -17,12 +17,13 @@
 }
 
 .nav-form-control{
-    background-color: rgb(234, 246, 255);
+    background-color: transparent;
     border-radius: 15px;
     border: none;
     outline: none;
     padding: 0px 1em;
     color: black;
+    border: 1.5px solid black !important;
 }
 
 .logo{
